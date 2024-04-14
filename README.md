@@ -11,6 +11,6 @@
   </tr>
   <tr>
     <td>Gustavo</td>
-    <td>São Paulo</td>
+    <td>Sao Paulo</td>
   </tr>
 </table>
